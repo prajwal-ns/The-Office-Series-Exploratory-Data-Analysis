@@ -147,7 +147,7 @@ Acknowledgment and credits for the gifs and images used:
 ![image](https://user-images.githubusercontent.com/90051040/200162146-67b40394-5c0b-4f4f-8083-ba8c895d8583.png)
 
 
-
+[Can view everything with pandas DF out here](https://nbviewer.org/github/prajwal-ns/The-Office-Series-Exploratory-Data-Analysis/blob/main/the_office.ipynb)
 
 
 
