@@ -1,28 +1,6 @@
 # The-Office-Series-Exploratory-Data-Analysis
 
-##### Table of Contents  
-[About](#headers)
-<br>[Why this show? ](#headers)
-<br>[Datsets](#headers)
-<br>1. [Top 10 Highest-rated Episodes](#headers)
-<br>2. [Top 10 most viewed Episodes](#headers)
-<br>3. [No. of episodes for each season](#headers)
-<br>4. [Average Ratings for each Season](#headers)
-<br>5. [Total duration for each Season](#headers)
-<br>6. [Guest Appearance for each Season](#headers)
-<br>7. [Top 10 Directors](#headers)
-<br>8. [Top 10 Writers](#headers)
-<br>9. ["That's what she said!!!"](#headers)
-<br>10.[ "Cookies"](#headers)
-<br>11.[ "Cornell"](#headers)
-<br>12.[ "Tuna!"](#headers)
-<br>13.[ Fun office? Why not ~ "Prank"](#headers)
-<br>14.[ Dwight's love towards his "Farm"](#headers)
-<br>15.[ Dwight and his "Facts"](#headers)
-<br>16.[ Dwight and Angela](#headers)
 
-  
-<a name="headers"/>
 
 -----------------------------
 
@@ -30,7 +8,7 @@
    <p>The Office is an American mockumentary sitcom television series that depicts the everyday work lives of office employees at the Scranton, Pennsylvania, branch of the fictional Dunder Mifflin Paper Company. It aired on NBC from March 24, 2005, to May 16, 2013, spanning a total of nine seasons.</p>
    
 -----------------------------
-## Why this show?  
+## Why I chose this show?  
 This is one of the shows that I really love and close to my heart. Casts, jokes, awkwardness, compassion, everything in one place; that's what this show consists of, actually more than that which I couldn't explain in words. Show which consists of ordinary people but an extraordinary life. My deep dive into the show by this anyalysis.
    
  ----------------------------- 
@@ -163,6 +141,8 @@ Acknowledgment and credits for the gifs and images used:
 -----------------------------
 
 ## 16. Dwight and Angela
+
+![Monkey](https://64.media.tumblr.com/54492a8ae215a8a85c7c43a78c5c3d42/tumblr_o7xb0kWA6p1uk9x9no9_250.gif)
 
 ![image](https://user-images.githubusercontent.com/90051040/200162146-67b40394-5c0b-4f4f-8083-ba8c895d8583.png)
 
