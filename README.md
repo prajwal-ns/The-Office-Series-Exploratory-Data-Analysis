@@ -14,7 +14,7 @@ This is one of the shows that I really love and close to my heart. Casts, jokes,
  ----------------------------- 
 ![The Office](http://4.bp.blogspot.com/-XnRa5HoSlZY/TXBZwqT37SI/AAAAAAAAEYo/jrwFWadzQiM/s1600/michaelscottslastsupper.jpg)
 -----------------------------
-## Datsets  
+## Datasets  
 
 1. the_office_series.csv which contains information about: id, Season, EpisodeTitle,	About,	Ratings,	Votes,	Viewership,	Duration,	Date,	GuestStars,	Director and Writers.  
     - By using the above dataset I answered "Top 10s" and "Average" of The Office Show.
